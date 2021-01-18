@@ -8,3 +8,6 @@ The following are the basic expectation outcome of the communication system.
 3. The target destination is able to send an acknowledgement to the sender
 4. The sender able to display the received acknowledgment.
 
+Additioal features include simple login password verification.
+
+*Only one message is able to send to destination at one time, if sender sent messages more than one time, the destination could only display the first sent message only*
